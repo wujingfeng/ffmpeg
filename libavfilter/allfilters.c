@@ -354,6 +354,7 @@ extern const AVFilter ff_vf_lutyuv;
 extern const AVFilter ff_vf_maskedclamp;
 extern const AVFilter ff_vf_maskedmax;
 extern const AVFilter ff_vf_maskedmerge;
+extern const AVFilter ff_vf_gltransition
 extern const AVFilter ff_vf_maskedmin;
 extern const AVFilter ff_vf_maskedthreshold;
 extern const AVFilter ff_vf_maskfun;
